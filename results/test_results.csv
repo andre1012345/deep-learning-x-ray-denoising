@@ -1,0 +1,5 @@
+method,test MSE,std (3 seeds)
+Noisy input,0.009221591,
+Gaussian filter,0.0012874452,
+conv_autoencoder,0.00087549235,7.395394732157001e-06
+unet,0.00058382883,4.635983714251779e-06
